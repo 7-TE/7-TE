@@ -3,11 +3,11 @@
 <a href="https://www.reddit.com/u/7TE__">
   <img align="left" alt="Reddit" width="200px" src="https://img.shields.io/reddit/user-karma/combined/7TE__?style=social" />
 </a>
-<a href="https://github.com/deveshprasad">
-  <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+<a href="https://www.youtube.com/channel/UCPopihIU8LMr6T9FCligVHA">
+  <img align="left" alt="Youtube" width="200px" src="https://img.shields.io/youtube/channel/subscribers/UCPopihIU8LMr6T9FCligVHA?style=social" />
 </a>
 <a href="mailto:deveshprasad577@yahoo.com">
-  <img align="left" alt="Yahoo" width="70px" src="https://img.shields.io/badge/Yahoo-720E9E?style=for-the-badge&logo=YahooIn&logoColor=white" />
+  <img align="left" alt="Yahoo" width="200px" src="https://img.shields.io/twitter/follow/_7TE_?style=social" />
 </a>
 <a href="https://discord.gg/amnG9Wzk">
   <img align="left" alt="gmail" width="200px" src="https://img.shields.io/discord/839509320231813181?logo=Discord&style=for-the-badge" />
