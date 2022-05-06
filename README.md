@@ -1,7 +1,7 @@
 
 <h1 >Hi 👋, I'm 7TE</h1>
 <a href="https://www.reddit.com/u/7TE__">
-  <img align="left" alt="Reddit" width="100px" src="https://img.shields.io/reddit/user-karma/combined/7TE__?style=social" />
+  <img align="left" alt="Reddit" width="200px" src="https://img.shields.io/reddit/user-karma/combined/7TE__?style=social" />
 </a>
 <a href="https://github.com/deveshprasad">
   <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
@@ -9,8 +9,8 @@
 <a href="mailto:deveshprasad577@yahoo.com">
   <img align="left" alt="Yahoo" width="70px" src="https://img.shields.io/badge/Yahoo-720E9E?style=for-the-badge&logo=YahooIn&logoColor=white" />
 </a>
-<a href="mailto:deveshprasad99911@gmail.com">
-  <img align="left" alt="gmail" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+<a href="https://discord.gg/amnG9Wzk">
+  <img align="left" alt="gmail" width="200px" src="https://img.shields.io/discord/839509320231813181?logo=Discord&style=for-the-badge" />
 </a>
 <a href="https://public.tableau.com/profile/devesh5578#!/">
   <img align="left" alt="gmail" width="100px" src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=white" />
