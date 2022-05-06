@@ -40,10 +40,10 @@
 <div align="right">
   <img align="left" src="https://raw.githubusercontent.com/7-TE/chip/main/ezgif.com-gif-maker.gif" width="10%"/>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
-- 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (Feb 2021- March2021)(60 days) - Internshala<br>
-- 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Jan 2020 - April 2021)<br>
-- ☄️ <samp>Volunteer at various Non Profits such as UNV_India, Safecity, Project Unlearn, TYCIA Foundation, Bhumi, EarthDay.ORG<br>
+- 👷 <samp>Web Design Intern at Eric Frank (Feb 22, 1732- May 4, 2022)(105,993 days) - Internshala<br>
+- 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (May 18, 2007- May 4, 2022)(5,466 days) - Internshala<br>
+- 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Dec 26 2012 - May 4, 2022)<br>
+- ☄️ <samp>Volunteer at various Non Profits such as Walmart, Amazon, Apple, CVS, AT&T, and Google<br>
 </div>
 <br>
 
