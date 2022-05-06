@@ -6,8 +6,8 @@
 <a href="https://www.youtube.com/channel/UCPopihIU8LMr6T9FCligVHA">
   <img align="left" alt="Youtube" width="200px" src="https://img.shields.io/youtube/channel/subscribers/UCPopihIU8LMr6T9FCligVHA?style=social" />
 </a>
-<a href="mailto:deveshprasad577@yahoo.com">
-  <img align="left" alt="Yahoo" width="200px" src="https://img.shields.io/twitter/follow/_7TE_?style=social" />
+<a href="https://twitter.com/_7TE_">
+  <img align="left" alt="Twittter" width="200px" src="https://img.shields.io/twitter/follow/_7TE_?style=social" />
 </a>
 <a href="https://discord.gg/amnG9Wzk">
   <img align="left" alt="gmail" width="200px" src="https://img.shields.io/discord/839509320231813181?logo=Discord&style=for-the-badge" />
