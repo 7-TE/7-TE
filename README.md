@@ -22,18 +22,23 @@
 
 <div>
 
-<img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="55%"/>
+<img align="right" src="https://raw.githubusercontent.com/7-TE/chip/main/chip-guy-fixed.gif" width="55%"/>
 - 👷 <samp>15 years old
+  
 - 🔭 <samp>My main focus is on developing, designing, analysing and visualising.
+  
 - ✍🏻 <samp>I have done 276 Internships till now, fourty four of them were Web Development and two hundred thirty two in Wordpress Development.
+  
 - 💬 <samp>Ask me about Web Development, Data Analytics and visualization.
+  
 - 🤔 <samp>I’m proficient in tools like Google Docs, Google Slides and Schoology.
+  
 - ⚡ <samp>Fun fact: I am heterosexual.
 
 </div>
 
 <div align="right">
-  <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="50%"/>
+  <img align="left" src="https://raw,githubusercontent.com/7-TE/chip/main/ezgif.com-gif-maker.gif" width="50%"/>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
 - 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (Feb 2021- March2021)(60 days) - Internshala<br>
@@ -68,7 +73,7 @@
 </p>
 <div>
   <br>
-<img align="left" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="50%"/>
+<img align="left" src="https://raw.githubusercontent.com/7-TE/chip/main/FrigidMediocreHornedtoad.gif" width="30%"/>
 
 <b><samp>Projects:</samp></b>
 - 👷 <samp>Social - A Full Stack Web Application where user can create account and post images and comments.</samp><br>
