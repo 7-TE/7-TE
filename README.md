@@ -12,12 +12,10 @@
 <a href="https://discord.gg/amnG9Wzk">
   <img align="left" alt="gmail" width="200px" src="https://img.shields.io/discord/839509320231813181?logo=Discord&style=for-the-badge" />
 </a>
-<a href="https://public.tableau.com/profile/devesh5578#!/">
-  <img align="left" alt="gmail" width="100px" src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=white" />
+<a href="https://github.com/deveshprasad">
+  <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing">
-  <img align="left" alt="gmail" width="70px" src="https://img.shields.io/badge/resume-fff?style=for-the-badge&logo=resume&logoColor=auto" />
-</a>
+
 
 
 ## <p align="center"><h3 align="center"><samp> A Developer, An Open Source Contributor, Data Analytics ☁  & A Programmer , Designer  </samp></h3></p>
@@ -25,13 +23,12 @@
 <div>
 
 <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="55%"/>
-
-- 👷 <samp>Currently pursuing BSc(Hons) Statistics + Computer Science(2019-2022) from Delhi University, India.
+- 👷 <samp>15 years old
 - 🔭 <samp>My main focus is on developing, designing, analysing and visualising.
-- ✍🏻 <samp>I have done 3 Internships till now, two of them were Web Development and one in Wordpress Development.
+- ✍🏻 <samp>I have done 276 Internships till now, fourty four of them were Web Development and two hundred thirty two in Wordpress Development.
 - 💬 <samp>Ask me about Web Development, Data Analytics and visualization.
-- 🤔 <samp>I’m proficient in tools like R tool, Tableau and Excel.
-- ⚡ <samp>Fun fact: I love Audiobooks and Podcasts.
+- 🤔 <samp>I’m proficient in tools like Google Docs, Google Slides and Schoology.
+- ⚡ <samp>Fun fact: I am heterosexual.
 
 </div>
 
