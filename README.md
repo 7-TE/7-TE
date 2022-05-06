@@ -85,12 +85,12 @@
   <br>
   <img align="left" src="https://media.giphy.com/media/JsJX1hZDov9V2QZyyG/giphy.gif" width="30%"/>
 
-[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshprasad&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&layout=compact&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
+[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=7-TE&show_icons=true&theme=dark)](https://github.com/7-TE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7-TE&layout=compact&show_icons=true&theme=dark)](https://github.com/7-TE/github-readme-stats)
 
 <p align="center"><br> 
  Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/deveshprasad/count.svg" />
+  <img src="https://profile-counter.glitch.me/7-TE/count.svg" />
 </p>
  
  
