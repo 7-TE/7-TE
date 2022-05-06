@@ -38,7 +38,7 @@
 </div>
 
 <div align="right">
-  <img align="left" src="https://raw,githubusercontent.com/7-TE/chip/main/ezgif.com-gif-maker.gif" width="50%"/>
+  <img align="left" src="https://raw.githubusercontent.com/7-TE/chip/main/ezgif.com-gif-maker.gif" width="10%"/>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
 - 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (Feb 2021- March2021)(60 days) - Internshala<br>
