@@ -1,6 +1,6 @@
 
 <h1 >Hi 👋, I'm 7TE</h1>
-<a href="https://www.reddit.com/u/7TE__">
+<a href="https://www.reddit.com/u/_7TE">
   <img align="left" alt="Reddit" width="200px" src="https://img.shields.io/reddit/user-karma/combined/7TE__?style=social" />
 </a>
 <a href="https://www.youtube.com/channel/UCPopihIU8LMr6T9FCligVHA">
