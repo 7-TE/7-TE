@@ -22,8 +22,8 @@ jobs:
       # Commit the changes
       - name: Commit files
         run: |
-          git config --local user.email "alicia-gh-bot@mail.as93.net"
-          git config --local user.name "liss-bot"
+          git config --local user.email "cohlbingham1@gmail.com"
+          git config --local user.name "7-te"
           git add .
           git commit -m ":star: Updates Starred Repo List"
 
