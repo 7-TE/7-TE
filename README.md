@@ -1,4 +1,4 @@
-
+![Metrics](https://metrics.lecoq.io/7-TE?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FDetroit)
 <h1 >Hi 👋, I'm 7TE</h1>
 <a href="https://www.reddit.com/u/_7TE">
   <img align="left" alt="Reddit" width="200px" src="https://img.shields.io/reddit/user-karma/combined/7TE__?style=social" />
@@ -93,7 +93,9 @@
 <p align="center"><br> 
  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/7-TE/count.svg" />
+  
 </p>
+  
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
@@ -115,3 +117,4 @@
 | [![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://d3js.org/) | [![Lissy93/twitter-sentiment-visualisation](https://img.shields.io/static/v1?label=&message=twitter-sentiment-visualisation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/twitter-sentiment-visualisation) [![Lissy93/voronoi-site-template](https://img.shields.io/static/v1?label=&message=voronoi-site-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/voronoi-site-template) [![Lissy93/happy-app](https://img.shields.io/static/v1?label=&message=happy-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/happy-app) [![Lissy93/realtime-speech-analytics](https://img.shields.io/static/v1?label=&message=realtime-speech-analytics&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/realtime-speech-analytics) |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=FFFFFF)](#) | [![Lissy93/md-cv-maker](https://img.shields.io/static/v1?label=&message=md-cv-maker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/md-cv-maker) [![Lissy93/email-extractor](https://img.shields.io/static/v1?label=&message=email-extractor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/email-extractor) [![Lissy93/bullet-convertor](https://img.shields.io/static/v1?label=&message=bullet-convertor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/bullet-convertor) [![Lissy93/cyber-defence-presentation](https://img.shields.io/static/v1?label=&message=cyber-defence-presentation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/cyber-defence-presentation) [![Lissy93/voronoi-site-template](https://img.shields.io/static/v1?label=&message=voronoi-site-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/voronoi-site-template) [![Lissy93/web-dev-school](https://img.shields.io/static/v1?label=&message=web-dev-school&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/web-dev-school) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+  
