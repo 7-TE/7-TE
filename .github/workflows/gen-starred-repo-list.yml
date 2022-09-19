@@ -16,14 +16,15 @@ jobs:
         uses: rverst/stargazer@v1.2.0
         with:
           github-user: ${{ github.actor }}
-          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          github-token: ${{ secrets.METRICS_TOKEN }}
+
           list-file: "STARRED-REPOS.md"
 
       # Commit the changes
       - name: Commit files
         run: |
           git config --local user.email "cohlbingham1@gmail.com"
-          git config --local user.name "7-te"
+          git config --local user.name "7-TE"
           git add .
           git commit -m ":star: Updates Starred Repo List"
 
@@ -31,5 +32,6 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          github_token: ${{ secrets.METRICS_TOKEN }}
+
           branch: ${{ github.ref }}
