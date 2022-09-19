@@ -12,14 +12,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Adds activity to readme
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: 7-TE/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
         with:
           MAX_LINES: 10
       - name: Adds activity to file
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: 7-TE/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: ':zap: Updates recent activity'
