@@ -22,7 +22,7 @@ jobs:
           filename: assets/metrics/sponsors.svg
           committer_message: "📊 Updates metrics - sponsors"
           # Options
-          user: Lissy93
+          user: 7-TE
           template: classic
           base: ""
           config_timezone: Europe/London
@@ -43,10 +43,10 @@ jobs:
           filename: assets/metrics/contributions.svg
           committer_message: "📊 Updates metrics - contributions"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           template: classic
           base: ""
-          config_timezone: Europe/London
+          config_timezone: US/Detroit
           plugin_calendar: yes
           plugin_calendar_limit: 10
   
@@ -62,7 +62,7 @@ jobs:
           filename: assets/metrics/tickets.svg
           committer_message: "📊 Updates metrics - tickets"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
@@ -79,7 +79,7 @@ jobs:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/habits.svg
           committer_message: "📊 Updates metrics - habbits"
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
@@ -102,7 +102,7 @@ jobs:
           filename: assets/metrics/stargazers.svg
           committer_message: "📊 Updates metrics - stargazers"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
@@ -119,7 +119,7 @@ jobs:
           filename: assets/metrics/activity.svg
           committer_message: "📊 Updates metrics - activity"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 15
@@ -138,7 +138,7 @@ jobs:
           filename: assets/metrics/reactions.svg
           committer_message: "📊 Updates metrics - reactions"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_reactions: yes
           plugin_reactions_limit: 800
@@ -160,7 +160,7 @@ jobs:
           committer_message: "📊 Updates metrics - people"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           filename: assets/metrics/people.svg
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_people: yes
           plugin_people_types: followers, following
@@ -178,7 +178,7 @@ jobs:
           filename: assets/metrics/languages.svg
           committer_message: "📊 Updates metrics - languages"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
@@ -201,7 +201,7 @@ jobs:
           filename: assets/metrics/achievements.svg
           committer_message: "📊 Updates metrics - acheivments"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B
@@ -219,7 +219,7 @@ jobs:
           filename: assets/metrics/notable.svg
           committer_message: "📊 Updates metrics - notable contribs"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_notable: yes
           plugin_notable_indepth: yes
@@ -239,7 +239,7 @@ jobs:
           filename: assets/metrics/discussions.svg
           committer_message: "📊 Updates metrics - discussions"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_discussions: yes
           plugin_discussions_categories_limit: 12
@@ -256,7 +256,7 @@ jobs:
           filename: assets/metrics/gists.svg
           committer_message: "📊 Updates metrics - gists"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_gists: yes                 
    
@@ -272,7 +272,7 @@ jobs:
           filename: assets/metrics/starlists.svg
           committer_message: "📊 Updates metrics - starlists"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_starlists: yes
           plugin_starlists_languages: yes
@@ -291,7 +291,7 @@ jobs:
           filename: assets/metrics/intro.svg
           committer_message: "📊 Updates metrics - intro"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_introduction: yes  
           
@@ -307,18 +307,11 @@ jobs:
           filename: assets/metrics/repositories.svg
           committer_message: "📊 Updates metrics - repositories"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_repositories: yes
           plugin_repositories_featured: >-
-            lissy93/dashy, lissy93/personal-security-checklist, lissy93/awesome-privacy, lissy93/go-apod,
-            lissy93/dotfiles,lissy93/email-comparison, lissy93/awesome-selfhosted, lissy93/docker-tcpdump,
-            lissy93/pax, lissy93/all-the-countries, lissy93/minesweper,
-            lissy93/callisto-theme-standard-notes, lissy93/lissy93,
-            lissy93/twitter-sentiment-visualisation, lissy93/hasami-shogi, lissy93/nfu,
-            lissy93/espanso-config, lissy93/minimal-terminal-prompt,
-            lissy93/anti-theft-charge, lissy93/md-cv-maker,
-            lissy93/alicia-sykes-website, lissy93/happy-app, lissy93/conky-system-stats-widget
+            7-TE/7-TE
    
  # Starred Topics
   starred-topics-metrics:
@@ -332,7 +325,7 @@ jobs:
           filename: assets/metrics/topics.svg
           committer_message: "📊 Updates metrics - topics"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 20
@@ -349,7 +342,7 @@ jobs:
           filename: assets/metrics/stackoverflow.svg
           committer_message: "📊 Updates metrics - stackoverflow"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           plugin_stackoverflow: yes
@@ -368,7 +361,7 @@ jobs:
           filename: assets/metrics/twitter.svg
           committer_message: "📊 Updates metrics - twitter"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           plugin_tweets: yes
@@ -388,7 +381,7 @@ jobs:
           filename: assets/metrics/blog-posts.svg
           committer_message: "📊 Updates metrics - blog"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           plugin_rss: yes
@@ -406,7 +399,7 @@ jobs:
           filename: assets/metrics/wakatime.svg
           committer_message: "📊 Updates metrics - wakatime"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           base: ""
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           plugin_wakatime: yes
@@ -427,7 +420,7 @@ jobs:
           committer_message: "📊 Updates metrics - all"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           # Options
-          user: Lissy93
+          user: 7-TE
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
@@ -479,7 +472,7 @@ jobs:
           filename: assets/metrics/summary.svg
           committer_message: "📊 Updates metrics - summary"
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Lissy93
+          user: 7-TE
           template: classic
           base: activity, community, repositories
           config_timezone: Europe/London
