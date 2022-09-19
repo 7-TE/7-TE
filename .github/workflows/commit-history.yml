@@ -18,6 +18,6 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.BOT_GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github-username: 'lissy93'
-          user-email: 'alicia-gh-bot@mail.as93.net'
+          github-username: '7-te'
+          user-email: 'cohlbingham1@gmail.com'
           readme-file: 'COMMIT-HISTORY.md'
