@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
-
+<!--START_SECTION:activity-->
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -26,3 +26,4 @@ jobs:
         with:
           MAX_LINES: 100
           TARGET_FILE: './RECENT-ACTIVITY.md'
+<!--END_SECTION:activity-->
