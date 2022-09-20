@@ -1,7 +1,7 @@
 
-<h1 >Hi 👋, I'm 7TE</h1>
-<a href="https://www.reddit.com/u/_7TE">
-  <img align="left" alt="Reddit" width="200px" src="https://img.shields.io/reddit/user-karma/combined/7TE__?style=social" />
+<h1 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&pause=1000&color=00F747&center=true&vCenter=true&width=435&lines=Hi+Im+7TE;I+like+coding+on+Linux;Reading;Gaming" alt="Typing SVG" /></a> 
+<a href="https://www.reddit.com/u/7--TE">
+  <img align="left" alt="Reddit" width="200px" src="https://img.shields.io/reddit/user-karma/combined/7--TE?style=social" />
 </a>
 <a href="https://www.youtube.com/channel/UCPopihIU8LMr6T9FCligVHA">
   <img align="left" alt="Youtube" width="200px" src="https://img.shields.io/youtube/channel/subscribers/UCPopihIU8LMr6T9FCligVHA?style=social" />
@@ -12,7 +12,7 @@
 <a href="https://discord.gg/amnG9Wzk">
   <img align="left" alt="gmail" width="200px" src="https://img.shields.io/discord/839509320231813181?logo=Discord&style=for-the-badge" />
 </a>
-<a href="https://github.com/deveshprasad">
+<a href="https://github.com/7-TE">
   <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <p align="left">
