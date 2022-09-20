@@ -30,7 +30,7 @@
 
 -----
 
-Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
+## Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
 
 <details><summary>About this game section</summary>
   
@@ -109,7 +109,7 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 </div>
 <div align="center" style="margin-top:20px">
   <br>
-  <img align="left" src="https://media.giphy.com/media/JsJX1hZDov9V2QZyyG/giphy.gif" width="30%"/>
+  <img align="left" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2016/10/pure-css-site-scroll-micro-animation.gif?fit=880%2C440&ssl=1" width="100%"/>
 
 [![7TE's GitHub stats](https://github-readme-stats.vercel.app/api?username=7-TE&show_icons=true&theme=dark)](https://github.com/7-TE/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7-TE&layout=compact&show_icons=true&theme=dark)](https://github.com/7-TE/github-readme-stats)
