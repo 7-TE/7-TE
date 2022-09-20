@@ -16,7 +16,7 @@ jobs:
         uses: rverst/stargazer@v1.2.0
         with:
           github-user: ${{ github.actor }}
-          github-token: ${{ secrets.METRICS_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
           list-file: "STARRED-REPOS.md"
 
@@ -32,6 +32,6 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.METRICS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
           branch: ${{ github.ref }}
