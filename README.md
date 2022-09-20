@@ -145,17 +145,20 @@
 | [![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://d3js.org/) | [![Lissy93/twitter-sentiment-visualisation](https://img.shields.io/static/v1?label=&message=twitter-sentiment-visualisation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/twitter-sentiment-visualisation) [![Lissy93/voronoi-site-template](https://img.shields.io/static/v1?label=&message=voronoi-site-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/voronoi-site-template) [![Lissy93/happy-app](https://img.shields.io/static/v1?label=&message=happy-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/happy-app) [![Lissy93/realtime-speech-analytics](https://img.shields.io/static/v1?label=&message=realtime-speech-analytics&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/realtime-speech-analytics) |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=FFFFFF)](#) | [![Lissy93/md-cv-maker](https://img.shields.io/static/v1?label=&message=md-cv-maker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/md-cv-maker) [![Lissy93/email-extractor](https://img.shields.io/static/v1?label=&message=email-extractor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/email-extractor) [![Lissy93/bullet-convertor](https://img.shields.io/static/v1?label=&message=bullet-convertor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/bullet-convertor) [![Lissy93/cyber-defence-presentation](https://img.shields.io/static/v1?label=&message=cyber-defence-presentation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/cyber-defence-presentation) [![Lissy93/voronoi-site-template](https://img.shields.io/static/v1?label=&message=voronoi-site-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/voronoi-site-template) [![Lissy93/web-dev-school](https://img.shields.io/static/v1?label=&message=web-dev-school&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/web-dev-school) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
-  
+ ----
+ <!-- Recent Activity -->
+<details>
+  <summary><b>⚡ Recent Activity</b></summary>
+    <p>
+            
+<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=7-TE' alt='Astro Dab'></a>
+
 <!--START_SECTION:activity-->
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
 <!--END_SECTION:activity-->
+----
+➡️  **[More Activity](/RECENT-ACTIVITY.md)**
+
+    
 ![Metrics](https://metrics.lecoq.io/7-TE?template=classic&isocalendar=1&languages=1&lines=1&stars=1&followup=1&people=1&introduction=1&sponsors=1&repositories=1&discussions=1&achievements=1&projects=1&gists=1&code=1&activity=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=America%2FDetroit)
+  
