@@ -163,4 +163,37 @@
   </a>
 </p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 427 Contributions in the Year 2022
+ > 
+> 📦 119.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I Mostly Code in CSS** 
+
+```text
+CSS                      4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/7-TE/7-TE/master/charts/bar_graph.png) 
+
+
+ Last Updated on 21/09/2022 02:54:47 UTC
 <!--END_SECTION:waka-->
