@@ -48,7 +48,9 @@
 -----
 
 
-## <p align="center"><h3 align="center"><samp> A Developer, An Open Source Contributor, Data Analytics ☁  & A Programmer , Designer  </samp></h3></p>
+
+
+<p align="center"><h3 align="center"><samp> A Developer, An Open Source Contributor, Data Analytics ☁  & A Programmer , Designer  </samp></h3></p>
 
 <div>
 
