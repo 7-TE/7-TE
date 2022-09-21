@@ -152,12 +152,12 @@
 ## :zap: Live Preview
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/m4mansur/pilgrimage/pull/2) in [m4mansur/pilgrimage](https://github.com/m4mansur/pilgrimage)
-2. 💪 Opened PR [#2](https://github.com/m4mansur/pilgrimage/pull/2) in [m4mansur/pilgrimage](https://github.com/m4mansur/pilgrimage)
- <!--END_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ---
-<p align="center">
+
+  <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&cover_image=true&theme=default&bar_color_cover=false">
   </a>
@@ -179,4 +179,8 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
+  
+  
+  
+  
 <!--END_SECTION:waka-->
