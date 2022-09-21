@@ -164,7 +164,6 @@
 </p>
 ---
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
