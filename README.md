@@ -163,7 +163,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
 
@@ -218,7 +218,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2022 09:26:43 UTC
+ Last Updated on 21/09/2022 10:27:06 UTC
 <!--END_SECTION:waka-->
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
