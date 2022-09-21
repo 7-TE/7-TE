@@ -164,26 +164,7 @@
 </p>
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
-
-**I Mostly Code in CSS** 
-
-```text
-CSS                      4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-
-  
-  
-  
- Last Updated on 21/09/2022 03:48:22 UTC
 <!--END_SECTION:waka-->
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
