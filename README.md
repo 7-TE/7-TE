@@ -157,3 +157,8 @@
  <!--END_SECTION:activity-->
 
 ---
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&cover_image=true&theme=default&bar_color_cover=false">
+  </a>
+</p>
