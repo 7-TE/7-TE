@@ -221,11 +221,23 @@ Go                       2 repos             ████░░░░░░░�
  Last Updated on 21/09/2022 23:27:15 UTC
 <!--END_SECTION:waka-->
   
-<!-- steam-box start -->
-<!-- steam-box end -->
+### 🕘 My Steam leaderboard
 
- <!-- steam-box-recent start -->
- <!-- steam-box-recent end -->
+<!-- steam-box-recent start -->
+🎮 Recently played Steam games
+```text
+
+```
+<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
+<!-- steam-box-recent end -->
+
+<!-- steam-box-playtime start -->
+🎮 Steam playtime leaderboard
+```text
+  
+```
+<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
+<!-- steam-box-playtime end -->
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
