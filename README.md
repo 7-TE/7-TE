@@ -155,12 +155,14 @@
 <!--END_SECTION:activity-->
 
 ---
-
-  <p align="center">
+<!---
+<p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&cover_image=true&theme=default&bar_color_cover=false">
   </a>
 </p>
+-->
+  
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2016%20mins-blue)
@@ -223,5 +225,6 @@ Go                       2 repos             ████░░░░░░░�
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-   <!-- steam-box-playtime start -->
+ <!-- steam-box-playtime start -->
+  
  <!-- steam-box-playtime end -->
