@@ -81,6 +81,7 @@
 </div>
 <br>
 <details><summary>Cool Languages</summary>
+
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=appveyor&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
@@ -101,18 +102,22 @@
 <p align="left"> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" style="margin:0 15px"/> </a> 
 </p>
+    </details>
 <div>
   <br>
-<img align="left" src="https://github.com/7-TE/7-TE/blob/main/3dgifmaker93527.gif?raw=true" width="30%"/>
+<div align="right">
 
-<b><samp>Projects:</samp></b>
+  <details><summary>Projects</summary>
+
 - 👷 <samp>Social - A Full Stack Web Application where user can create account and post images and comments.</samp><br>
 - 👨🏾‍💻 <samp>Portfolio - Portfolio and resume website showing designing and creative skills.</samp><br>
 - 🕵🏻 <samp>Javascript Games - Various games such as Color Picker, Todolist, & Dice games.</samp><br>
 - ☄️ <samp>Tableau Profile - Showing Data Visualisation Skills.</samp><br> 
-</div>
-<div align="center" style="margin-top:20px">
+</details>
+    </div>
+  
   <br>
+  <details><summary>Stats</summary>
   <img align="left" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2016/10/pure-css-site-scroll-micro-animation.gif?fit=880%2C440&ssl=1" width="100%"/>
 
 [![7TE's GitHub stats](https://github-readme-stats.vercel.app/api?username=7-TE&show_icons=true&theme=dark)](https://github.com/7-TE/github-readme-stats)
@@ -123,8 +128,10 @@
   <img src="https://profile-counter.glitch.me/7-TE/count.svg" />
   
 </p>
-  
-
+  </details>
+  <div align="right">
+  <details><summary>Table of Repos</summary>
+    
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
@@ -145,27 +152,25 @@
 | [![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://d3js.org/) | [![Lissy93/twitter-sentiment-visualisation](https://img.shields.io/static/v1?label=&message=twitter-sentiment-visualisation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/twitter-sentiment-visualisation) [![Lissy93/voronoi-site-template](https://img.shields.io/static/v1?label=&message=voronoi-site-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/voronoi-site-template) [![Lissy93/happy-app](https://img.shields.io/static/v1?label=&message=happy-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/happy-app) [![Lissy93/realtime-speech-analytics](https://img.shields.io/static/v1?label=&message=realtime-speech-analytics&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/realtime-speech-analytics) |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=FFFFFF)](#) | [![Lissy93/md-cv-maker](https://img.shields.io/static/v1?label=&message=md-cv-maker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/md-cv-maker) [![Lissy93/email-extractor](https://img.shields.io/static/v1?label=&message=email-extractor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/email-extractor) [![Lissy93/bullet-convertor](https://img.shields.io/static/v1?label=&message=bullet-convertor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/bullet-convertor) [![Lissy93/cyber-defence-presentation](https://img.shields.io/static/v1?label=&message=cyber-defence-presentation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/cyber-defence-presentation) [![Lissy93/voronoi-site-template](https://img.shields.io/static/v1?label=&message=voronoi-site-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/voronoi-site-template) [![Lissy93/web-dev-school](https://img.shields.io/static/v1?label=&message=web-dev-school&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Lissy93/web-dev-school) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
- ----
+  </details>
+ <div align="left">
+  <details><summary>Metrics</summary>
+    
 ![Metrics](https://metrics.lecoq.io/7-TE?template=classic&isocalendar=1&languages=1&lines=1&stars=1&followup=1&people=1&introduction=1&sponsors=1&repositories=1&discussions=1&achievements=1&projects=1&gists=1&code=1&activity=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=America%2FDetroit)
-## :zap: Live Preview
+  </details>
+<div align="right">
+  <details><summary>Live Preview</summary>
 
 <!--RECENT_ACTIVITY:start-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
----
-<!---
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&cover_image=true&theme=default&bar_color_cover=false">
-  </a>
-</p>
--->
-  
-
+  </details>
+  <div align="left">  
+<details><summary>Cooler Stats</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2016%20mins-blue)
 
+ ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2016%20mins-blue)
+    
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -220,7 +225,19 @@ Go                       2 repos             ████░░░░░░░�
 
 
  Last Updated on 21/09/2022 23:27:15 UTC
+  </details>
 <!--END_SECTION:waka-->
+  <div align="right">  
+<p align="center">
+  <details><summary>Spotify</summary>
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&cover_image=true&theme=default&bar_color_cover=false">
+  </a>
+</p>
+    </details>
+  
+  <div align="left">  
+  <details><summary>Steam Stats</summary>
   ### ⭐ My favorite games
 Want to play something cool? Here are my personal bests!
 
@@ -250,9 +267,13 @@ Want to play something cool? Here are my personal bests!
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+  </details>
+    <div align="right">
+  <details><summary>Random Stuff</summary>
+    
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
 <p align="center"><br> 
 This person below does not exist👇👇👇<br><br>
 <img width="500" src="https://thispersondoesnotexist.com/image" />
 </p>
- 
+ </details>
