@@ -53,7 +53,7 @@
 <p align="center"><h3 align="center"><samp> A Developer, An Open Source Contributor, Data Analytics ☁  & A Programmer , Designer  </samp></h3></p>
 
 <div>
-
+  <details><summary>Basic Info</summary>
 <img align="right" src="https://raw.githubusercontent.com/7-TE/chip/main/chip-guy-fixed.gif" width="55%"/>
 - 👷 <samp>15 years old
   
@@ -66,23 +66,21 @@
 - 🤔 <samp>I’m proficient in tools like Google Docs, Google Slides and Schoology.
   
 - ⚡ <samp>Fun fact: I am heterosexual.
-
+  </details>
 </div>
 
 <div align="right">
-  <img align="left" src="https://raw.githubusercontent.com/7-TE/chip/main/ezgif.com-gif-maker.gif" width="10%"/>
-<h3><b><samp>Experiences:</samp></b></h3>
+  <details><summary>Experinces</summary>
+   <img align="left" src="https://raw.githubusercontent.com/7-TE/chip/main/ezgif.com-gif-maker.gif" width="10%"/>
+
 - 👷 <samp>Web Design Intern at Eric Frank (Feb 22, 1732- May 4, 2022)(105,993 days) - Internshala<br>
 - 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (May 18, 2007- May 4, 2022)(5,466 days) - Internshala<br>
 - 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Dec 26 2012 - May 4, 2022)<br>
 - ☄️ <samp>Volunteer at various Non Profits such as Walmart, Amazon, Apple, CVS, AT&T, and Google<br>
+  <img alt="Night Coding" src="https://i.imgur.com/rTZkf4K.gif" width="40%" align="right"/>
 </div>
 <br>
-
-<img alt="Night Coding" src="https://i.imgur.com/rTZkf4K.gif" width="40%" align="right"/>
-
-<h3>### 🛠 &nbsp;Tech Stack<h3>
-
+<details><summary>Cool Languages</summary>
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=appveyor&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
@@ -151,8 +149,9 @@
 ![Metrics](https://metrics.lecoq.io/7-TE?template=classic&isocalendar=1&languages=1&lines=1&stars=1&followup=1&people=1&introduction=1&sponsors=1&repositories=1&discussions=1&achievements=1&projects=1&gists=1&code=1&activity=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=America%2FDetroit)
 ## :zap: Live Preview
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 <!---
@@ -252,4 +251,8 @@ Want to play something cool? Here are my personal bests!
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
-<img src='https://random--memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<p align="center"><br> 
+This person below does not exist👇👇👇<br><br>
+<img width="500" src="https://thispersondoesnotexist.com/image" />
+</p>
+ 
