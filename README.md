@@ -229,11 +229,7 @@ Go                       2 repos             ████░░░░░░░�
   <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 POSTAL 2                         🕘 25 hrs 49 mins
-🕵️‍♂️ Among Us                       🕘 23 hrs 19 mins
-🎮 Portal 2                         🕘 8 hrs 55 mins
-λ² Half-Life 2                      🕘 5 hrs 38 mins
-🎮 Portal                           🕘 4 hrs 17 mins
+
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
