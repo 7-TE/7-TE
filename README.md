@@ -222,14 +222,32 @@ Go                       2 repos             ████░░░░░░░�
 
  Last Updated on 21/09/2022 23:27:15 UTC
 <!--END_SECTION:waka-->
+  ### ⭐ My favorite games
+Want to play something cool? Here are my personal bests!
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
-<img src='https://random--memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+```text
+⚔️ Tales of Symphonia               📅 2003
+🧬 Pokémon Gold                     📅 1999
+🪐 Halo 3                           📅 2007
+🌌 Portal 2                         📅 2011
+🎲 The Binding of Isaac Rebirth     📅 2014
+🗡️ Dishonored 2                     📅 2016
+📡 Titanfall 2                      📅 2016
+🎓 Persona 5                        📅 2017
+```
+### 🕘 My Steam leaderboard
+<!-- steam-box-recent start -->
+🎮 Recently played Steam games
+```text
 
-  <!-- steam-box start -->
+```
+<!-- steam-box-recent end -->  
+<!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
 
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
+<img src='https://random--memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
