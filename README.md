@@ -226,14 +226,11 @@ Go                       2 repos             ████░░░░░░░�
 Want to play something cool? Here are my personal bests!
 
 ```text
-⚔️ Tales of Symphonia               📅 2003
-🧬 Pokémon Gold                     📅 1999
-🪐 Halo 3                           📅 2007
-🌌 Portal 2                         📅 2011
-🎲 The Binding of Isaac Rebirth     📅 2014
-🗡️ Dishonored 2                     📅 2016
-📡 Titanfall 2                      📅 2016
-🎓 Persona 5                        📅 2017
+🎮 POSTAL 2                         📅 2003
+🕵️‍♂️ Among Us                         📅 2020
+🎮 Portal 2                         📅 2011
+λ² Half-Life 2                      📅 2004
+🎮 Portal                           📅 2007
 ```
 ### 🕘 My Steam leaderboard
 <!-- steam-box-recent start -->
