@@ -1,15 +1,17 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `27`
+Total starred repositories: `41`
 ## Contents
 
   - [Assembly](#assembly)
   - [CSS](#css)
+  - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Python](#python)
+  - [TypeScript](#typescript)
   - [Unknown](#unknown)
   - [Vue](#vue)
 
@@ -25,6 +27,14 @@ Total starred repositories: `27`
   - [7-TE/Vins2106-Brave-NewTab](https://github.com/7-TE/Vins2106-Brave-NewTab) -  \[*MIT License*\] (⭐️1)
   - [crysterbater/startpages](https://github.com/crysterbater/startpages) - Modded Startpages (⭐️3)
   - [EivindArvesen/startpage](https://github.com/EivindArvesen/startpage) - Custom browser startpage \[*MIT License*\] (⭐️15)
+
+## Go
+
+  - [7-TE/7-TE](https://github.com/7-TE/7-TE) -  (⭐️1)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️27788)
+  - [torresflo/steam-box-for-readme](https://github.com/torresflo/steam-box-for-readme) - Fork of YouEclipse/steam-box. This fork only allows to update readme file with Steam playtime leaderboard and Steam recent played games. \[*Apache License 2.0*\] (⭐️1)
+  - [YouEclipse/steam-box](https://github.com/YouEclipse/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。 \[*Apache License 2.0*\] (⭐️116)
+  - [yututi/steam-box](https://github.com/yututi/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。 \[*Apache License 2.0*\] (⭐️1)
 
 ## HTML
 
@@ -44,9 +54,11 @@ Total starred repositories: `27`
 
   - [7-TE/FirojUddinA-Brave-app-Home-Page](https://github.com/7-TE/FirojUddinA-Brave-app-Home-Page) -  (⭐️1)
   - [Etesam913/dragify](https://github.com/Etesam913/dragify) - :sparkles: An application that can be used to create a custom startpage through interactive tools like drag and drop \[*Mozilla Public License 2.0*\] (⭐️51)
+  - [fcbeyer/chrome-comcastify](https://github.com/fcbeyer/chrome-comcastify) - A chrome extension for The Onion's comcastify javascript repo \[*MIT License*\] (⭐️6)
   - [kaleben0/The_Source](https://github.com/kaleben0/The_Source) - The Source - Customizable Startpage (⭐️8)
-  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️8362)
+  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️8393)
   - [Mist0090/youareanidiot.cc](https://github.com/Mist0090/youareanidiot.cc) -  (⭐️1)
+  - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme! \[*MIT License*\] (⭐️74)
   - [SimplyVoid/startpage](https://github.com/SimplyVoid/startpage) - A simple yet functional startpage with responsiveness😯 \[*MIT License*\] (⭐️4)
   - [thezeroalpha/zerotab-old](https://github.com/thezeroalpha/zerotab-old) - My old custom startpage, based off WebOasis. No longer in use because it's super heavy. (⭐️7) *Archived!*
   - [willeccles/startpage](https://github.com/willeccles/startpage) - My very powerful browser start page. \[*Apache License 2.0*\] (⭐️14)
@@ -54,15 +66,25 @@ Total starred repositories: `27`
 
 ## Python
 
+  - [MLH-Fellowship/github-discord-bot](https://github.com/MLH-Fellowship/github-discord-bot) - This bot allows you to associate a Github repo to a Discord channel and get quick info, such as summary, recent issues, pull requests, etc. \[*MIT License*\] (⭐️5)
   - [ZhaoUncle/Awesome-Homepage](https://github.com/ZhaoUncle/Awesome-Homepage) - Here is a curated list of outstanding projects with a focus on homepage, homelab, self-hosted, startpage, single-page,  bookmark. (⭐️47)
+
+## TypeScript
+
+  - [Falconerd/discord-bot-github](https://github.com/Falconerd/discord-bot-github) - GitHub repo updates displayed in Discord. (⭐️338)
+  - [JasonEtco/gist-box](https://github.com/JasonEtco/gist-box) - 📌📋 A helper class for updating a single-file Gist \[*MIT License*\] (⭐️80)
 
 ## Unknown
 
-  - [7-TE/7-TE](https://github.com/7-TE/7-TE) -  (⭐️1)
   - [7-TE/manliarome](https://github.com/7-TE/manliarome) -  (⭐️1)
+  - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository. (⭐️1799)
+  - [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love_letter: Things I've learned about writing good READMEs. (⭐️6832) *Archived!*
+  - [Keanu73/starter-workflows](https://github.com/Keanu73/starter-workflows) - Templates for onboarding new users into GitHub Actions \[*MIT License*\] (⭐️1)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️220700)
+  - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. \[*MIT License*\] (⭐️36984)
 
 ## Vue
 
-  - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 \[*Creative Commons Zero v1.0 Universal*\] (⭐️14463)
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️7493)
+  - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 \[*Creative Commons Zero v1.0 Universal*\] (⭐️14534)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️7527)
 
