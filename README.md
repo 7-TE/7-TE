@@ -18,6 +18,9 @@
 <p align="left">
 <img width="1000" src="https://raw.githubusercontent.com/7-TE/7-TE/master/assets/github-snake.svg" />
 </p>
+<a href="https://top.gg/bot/1027948776440209538">
+  <img src="https://top.gg/api/widget/1027948776440209538.svg">
+</a>
 
 
 ### 🎮 Let's play Pokémon together
