@@ -1,0 +1,263 @@
+*{
+    font-family: sans-serif;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+html{
+    height: 100%;
+}
+
+body{
+    background-color: #2f3136;
+
+}
+
+
+.profile{
+    max-width: 900px;
+    max-height: 480px;
+    width: 90%;
+    height: 90%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #18191c;
+    border-radius: 10px;
+    box-shadow: 0 0 30px #000000aa;
+    transition: 1s;
+}
+
+.profile:hover{
+    filter: drop-shadow(0 0 20px rgb(253, 53, 53));
+}
+
+
+img{
+    border-radius: 300px;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    display: block;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.bxs-moon{
+    color: rgb(212, 166, 66);
+    font-size: 60px;
+    transform: scaleX(-1);
+    position: absolute;
+    margin: 250px ;
+    background-color: #18191c;
+    border-radius: 300px;
+    transition: 0.3s;
+}
+
+.bxs-moon:hover{
+    transform: rotate(360deg); 
+}
+
+.nitro{
+    width: 60px;
+    height: 60px;
+    float: right;
+    margin-top: 250px;
+    margin-left: -20px;
+    margin-right: 35px;
+} 
+
+h3{
+    margin-top: 30px;
+    margin-left: 30px;
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Radio Canada', sans-serif;
+
+}
+
+a{
+    font-size: 50px;
+    color: #ddd;
+    margin-left: 50px;
+    transition: 0.5s;
+}
+
+a:hover{
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 20px white);
+}
+
+.btn{
+    margin: 30px;
+    font-size: 40px;
+    float: right;
+    background-color: #2f3136;
+    padding: 6px;
+    border-radius: 10px;
+    margin-top: -10px;
+}
+
+.btn:hover{
+    transform: scale(1.05);
+    filter: none;
+}
+
+.back{
+    opacity: 0.8;
+    font-size: 80px;
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    border-radius: 300px;
+}
+
+.back:hover{
+    opacity: 1;
+    transform: scale(1.10);
+    filter: none;
+}
+
+
+.guilds_div{
+    display: none;
+    opacity: 0;
+    max-width: 1300px;
+    max-height: 880px;
+    width: 90%;
+    height: 90%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #18191c;
+    border-radius: 10px;
+    box-shadow: 0 0 30px #000000aa;
+    transition: 1s;
+    z-index: 1;  
+    text-align: center;
+    overflow-y: scroll;
+    
+}
+
+.guilds_div:hover{
+    filter: drop-shadow(0 0 20px rgb(147, 180, 241));
+}
+
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #fff;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #b30000;
+}
+
+.guilds_title{
+    text-align: center;
+    font-size: 60px;
+}
+
+.guilds{
+    padding-top: 10px;
+    display: inline-block;
+    opacity: 0.9;
+    margin: auto;
+    border: 3px solid rgb(108, 112, 119);
+    width:  260px;
+    text-align: center;
+    border-radius: 6px;
+    margin: 10px;
+    transition: 0.3s
+    
+}
+
+.guilds:hover{
+    transform: scale(1.05);
+    filter: none;
+    opacity: 1;
+}
+
+
+.guild_avatar{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border: 3px solid rgb(108, 112, 119);
+}
+
+.guild_name{
+    margin: auto;
+}
+
+
+@media (max-width: 600px) {
+    .profile{
+        max-width: 900px;
+        max-height: 400px;
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        background-color: #18191c;
+        border-radius: 10px;
+        box-shadow: 0 0 30px #000000aa;
+        transition: 1s;
+    }
+
+    img{
+        height: 150px;
+        width: 150px;
+    }
+
+    .bxs-moon{
+        font-size: 40px;
+        margin: 130px ;
+    }
+    
+    .nitro{
+        width: 40px;
+        height: 40px;
+        margin-top: 130px;
+    } 
+
+    h3{
+        margin-top: 30px;
+        margin-left: 20px;
+        color: #fff;
+        font-size: 40px;
+    }
+
+    .btn{
+        font-size: 40px;
+        background-color: #2f3136;
+        padding: 6px;
+        border-radius: 10px;
+        margin-top: 0px;
+    }
+
+    .guilds{
+        width:  300px;
+    }
+
+}
+
