@@ -18,10 +18,8 @@
 <p align="left">
 <img width="1000" src="https://raw.githubusercontent.com/7-TE/7-TE/master/assets/github-snake.svg" />
 </p>
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/838761858683895819.png" alt="Discord">
-</p>
-
+ 
+ [![Discord Presence](https://lanyard.cnrad.dev/api/838761858683895819)](https://discord.com/users/838761858683895819)
 
 ### 🎮 Let's play Pokémon together
 <img src="https://toy.aoaoao.me/image" width="300"/> 
