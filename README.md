@@ -21,6 +21,7 @@
  
  [![Discord Presence](https://lanyard.cnrad.dev/api/838761858683895819)](https://discord.com/users/838761858683895819)
 
+</a>
 ### 🎮 Let's play Pokémon together
 <img src="https://toy.aoaoao.me/image" width="300"/> 
 
