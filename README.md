@@ -21,7 +21,15 @@
  
  [![Discord Presence](https://lanyard.cnrad.dev/api/838761858683895819)](https://discord.com/users/838761858683895819)
 
-</a>
+```text
+My sites:
+
+https://7-TE.ml
+https://tsplatter.ml
+https://ua-detector.ml
+```
+ 
+
 ### 🎮 Let's play Pokémon together
 <img src="https://toy.aoaoao.me/image" width="300"/> 
 
