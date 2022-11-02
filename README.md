@@ -9,8 +9,8 @@
 <a href="https://twitter.com/_7TE_">
   <img align="left" alt="Twittter" width="200px" src="https://img.shields.io/twitter/follow/_7TE_?style=social" />
 </a>
-<a href="https://discord.gg/amnG9Wzk">
-  <img align="left" alt="gmail" width="200px" src="https://img.shields.io/discord/839509320231813181?logo=Discord&style=for-the-badge" />
+<a href="https://discord.gg/tsplatter">
+  <img align="left" alt="Discord" width="200px" src="https://img.shields.io/discord/839509320231813181?logo=Discord&style=for-the-badge" />
 </a>
 <a href="https://github.com/7-TE">
   <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
