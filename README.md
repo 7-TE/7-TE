@@ -18,10 +18,16 @@
 <p align="left">
 <img width="1000" src="https://raw.githubusercontent.com/7-TE/7-TE/master/assets/github-snake.svg" />
 </p>
- 
- [![Discord Presence](https://lanyard.cnrad.dev/api/838761858683895819)](https://discord.com/users/838761858683895819)
 
-```text
+[![Discord Presence](https://lanyard.cnrad.dev/api/838761858683895819)](https://discord.com/users/838761858683895819)
+ <p align="center">
+<img src = "https://github-readme-stats.vercel.app/api?username=7TE&show_icons=true&theme=tokyonight&line_height=27">
+  </p>
+ <p align="center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=7-TE&langs_count=10)&theme=tokyonight">
+  </p>
+
+```js
 My sites:
 
 https://7-TE.ml
