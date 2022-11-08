@@ -22,10 +22,10 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/838761858683895819)](https://discord.com/users/838761858683895819)
 
 <a href="https://github.com/7-TE/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7TE&show_icons=true&theme=tokyonight&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7TE&show_icons=true&theme=discord_old_blurple&line_height=27" />
 </a>
 <a href="https://github.com/7-TE/7-TE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7-TE&langs_count=5)&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7-TE&langs_count=5)&theme=discord_old_blurple" />
 </a>
 
 ```js
