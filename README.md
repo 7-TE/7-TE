@@ -1,5 +1,8 @@
 
 <h1 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&pause=1000&color=00F747&center=true&vCenter=true&width=435&lines=Hi+Im+7TE;I+like+coding+on+Linux;Reading;Gaming" alt="Typing SVG" /></a> 
+<a href="https://raw.githubusercontent.com/7-TE/7-TE/master/imgs/epic.png">
+  <img align="center" alt="7TE" width="300px" src="https://raw.githubusercontent.com/7-TE/7-TE/master/imgs/epic.png" />
+</a>
 <a href="https://www.reddit.com/u/7--TE">
   <img align="left" alt="Reddit" width="200px" src="https://img.shields.io/reddit/user-karma/combined/7--TE?style=social" />
 </a>
