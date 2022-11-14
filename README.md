@@ -23,7 +23,9 @@
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/838761858683895819)](https://discord.com/users/838761858683895819)
-
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true">
+  </a>
 <a href="https://github.com/7-TE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=7TE&show_icons=true&theme=discord_old_blurple&line_height=27" />
 </a>
@@ -283,7 +285,7 @@ Go                       2 repos             ████░░░░░░░�
 <p align="center">
   <details><summary>Spotify</summary>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&cover_image=true&theme=default&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312nmdkk6gbt3qvvyfryg7yhw2eu&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
     </details>
