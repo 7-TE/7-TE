@@ -32,6 +32,7 @@
 <a href="https://github.com/7-TE/7-TE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7-TE&langs_count=5)&theme=discord_old_blurple" />
 </a>
+![Trophey](https://github-profile-trophy.vercel.app/?username=7-TE&theme=discord)
 
 ```js
 My sites:
