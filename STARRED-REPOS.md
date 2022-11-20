@@ -1,7 +1,7 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `54`
+Total starred repositories: `53`
 ## Contents
 
   - [Assembly](#assembly)
@@ -29,14 +29,14 @@ Total starred repositories: `54`
   - [Clay-Devs/discordcss](https://github.com/Clay-Devs/discordcss) - The official source code for Discord.css. Make your websites with Discord's css. (⭐️18)
   - [crysterbater/startpages](https://github.com/crysterbater/startpages) - Modded Startpages (⭐️3)
   - [EivindArvesen/startpage](https://github.com/EivindArvesen/startpage) - Custom browser startpage \[*MIT License*\] (⭐️15)
-  - [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template) - Amazing website designed with Bootstrap for new Discord bots. \[*MIT License*\] (⭐️360)
+  - [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template) - Amazing website designed with Bootstrap for new Discord bots. \[*MIT License*\] (⭐️362)
 
 ## Go
 
   - [7-TE/7-TE](https://github.com/7-TE/7-TE) -  (⭐️2)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️29271)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️29511)
   - [torresflo/steam-box-for-readme](https://github.com/torresflo/steam-box-for-readme) - Fork of YouEclipse/steam-box. This fork only allows to update readme file with Steam playtime leaderboard and Steam recent played games. \[*Apache License 2.0*\] (⭐️1)
-  - [YouEclipse/steam-box](https://github.com/YouEclipse/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。 \[*Apache License 2.0*\] (⭐️118)
+  - [YouEclipse/steam-box](https://github.com/YouEclipse/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。 \[*Apache License 2.0*\] (⭐️120)
   - [yututi/steam-box](https://github.com/yututi/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。 \[*Apache License 2.0*\] (⭐️1)
 
 ## HTML
@@ -57,33 +57,33 @@ Total starred repositories: `54`
 
   - [7-TE/FirojUddinA-Brave-app-Home-Page](https://github.com/7-TE/FirojUddinA-Brave-app-Home-Page) -  (⭐️1)
   - [Dadangdut33/Startpage](https://github.com/Dadangdut33/Startpage) - A simple startpage made with vanilla html, js, and css \[*MIT License*\] (⭐️4)
-  - [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs) - Notes and hacks relating to Discord and its API. (⭐️88)
+  - [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs) - Notes and hacks relating to Discord and its API. (⭐️90)
   - [Etesam913/dragify](https://github.com/Etesam913/dragify) - :sparkles: An application that can be used to create a custom startpage through interactive tools like drag and drop \[*Mozilla Public License 2.0*\] (⭐️51)
   - [fcbeyer/chrome-comcastify](https://github.com/fcbeyer/chrome-comcastify) - A chrome extension for The Onion's comcastify javascript repo \[*MIT License*\] (⭐️6)
   - [kaleben0/The_Source](https://github.com/kaleben0/The_Source) - The Source - Customizable Startpage (⭐️8)
   - [KunalBagaria/discordjs-v13-starter](https://github.com/KunalBagaria/discordjs-v13-starter) - A starter code to start your bot making process in Discord.js V13 \[*MIT License*\] (⭐️12)
-  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️8838)
+  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️8885)
   - [Mist0090/youareanidiot.cc](https://github.com/Mist0090/youareanidiot.cc) -  (⭐️1)
-  - [OIRNOIR/WackyWebM](https://github.com/OIRNOIR/WackyWebM) - This is a simple tool to allow you to create WebM files with changing aspect ratios. \[*GNU GPLv3*\] (⭐️541)
+  - [OIRNOIR/WackyWebM](https://github.com/OIRNOIR/WackyWebM) - This is a simple tool to allow you to create WebM files with changing aspect ratios. \[*GNU GPLv3*\] (⭐️547)
   - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme! \[*MIT License*\] (⭐️83)
-  - [rigwild/discord-self-bot-console](https://github.com/rigwild/discord-self-bot-console) - A simple Discord Self-bot using devtools console \[*MIT License*\] (⭐️41)
-  - [SebOuellette/LiveBot](https://github.com/SebOuellette/LiveBot) - An app that allows you to be inside a bot! \[*Apache License 2.0*\] (⭐️577)
+  - [rigwild/discord-self-bot-console](https://github.com/rigwild/discord-self-bot-console) - A simple Discord Self-bot using devtools console \[*MIT License*\] (⭐️44)
+  - [SebOuellette/LiveBot](https://github.com/SebOuellette/LiveBot) - An app that allows you to be inside a bot! \[*Apache License 2.0*\] (⭐️576)
   - [SimplyVoid/startpage](https://github.com/SimplyVoid/startpage) - A simple yet functional startpage with responsiveness😯 \[*MIT License*\] (⭐️4)
   - [thezeroalpha/zerotab-old](https://github.com/thezeroalpha/zerotab-old) - My old custom startpage, based off WebOasis. No longer in use because it's super heavy. (⭐️7) *Archived!*
-  - [willeccles/startpage](https://github.com/willeccles/startpage) - My very powerful browser start page. \[*Apache License 2.0*\] (⭐️14)
+  - [willeccles/startpage](https://github.com/willeccles/startpage) - My very powerful browser start page. \[*Apache License 2.0*\] (⭐️13)
   - [wrinkle-wrinkle/start_invaders](https://github.com/wrinkle-wrinkle/start_invaders) - startpage with a space invaders inspired game (⭐️4)
 
 ## Python
 
-  - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (⭐️20531)
+  - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (⭐️21402)
   - [coehler/Anime-Auditor](https://github.com/coehler/Anime-Auditor) - A discord bot that uses OpenCV2 to check if a user has an Anime profile picture (⭐️4)
   - [MLH-Fellowship/github-discord-bot](https://github.com/MLH-Fellowship/github-discord-bot) - This bot allows you to associate a Github repo to a Discord channel and get quick info, such as summary, recent issues, pull requests, etc. \[*MIT License*\] (⭐️6)
-  - [NPCat/bad-apple-bot](https://github.com/NPCat/bad-apple-bot) - the discord bot from this video: https://www.youtube.com/watch?v=PLP9c0Z4Q3Y (⭐️330)
-  - [ZhaoUncle/Awesome-Homepage](https://github.com/ZhaoUncle/Awesome-Homepage) - Here is a curated list of outstanding projects with a focus on homepage, homelab, self-hosted, startpage, single-page,  bookmark. (⭐️53)
+  - [NPCat/bad-apple-bot](https://github.com/NPCat/bad-apple-bot) - the discord bot from this video: https://www.youtube.com/watch?v=PLP9c0Z4Q3Y (⭐️333)
+  - [ZhaoUncle/Awesome-Homepage](https://github.com/ZhaoUncle/Awesome-Homepage) - Here is a curated list of outstanding projects with a focus on homepage, homelab, self-hosted, startpage, single-page,  bookmark. (⭐️55)
 
 ## QML
 
-  - [FRC-Utilities/QDriverStation](https://github.com/FRC-Utilities/QDriverStation) - Cross-platform clone of the FRC Driver Station \[*MIT License*\] (⭐️158)
+  - [FRC-Utilities/QDriverStation](https://github.com/FRC-Utilities/QDriverStation) - Cross-platform clone of the FRC Driver Station \[*MIT License*\] (⭐️159)
 
 ## TypeScript
 
@@ -93,15 +93,14 @@ Total starred repositories: `54`
 ## Unknown
 
   - [7-TE/manliarome](https://github.com/7-TE/manliarome) -  (⭐️1)
-  - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 \[*Creative Commons Zero v1.0 Universal*\] (⭐️15281)
-  - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository. (⭐️1927)
-  - [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love_letter: Things I've learned about writing good READMEs. (⭐️6855) *Archived!*
+  - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 \[*Creative Commons Zero v1.0 Universal*\] (⭐️15361)
+  - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository. (⭐️1935)
+  - [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love_letter: Things I've learned about writing good READMEs. (⭐️6856) *Archived!*
   - [Keanu73/starter-workflows](https://github.com/Keanu73/starter-workflows) - Templates for onboarding new users into GitHub Actions \[*MIT License*\] (⭐️1)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️225270)
-  - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. \[*MIT License*\] (⭐️37780)
-  - [Titanium-Network/Holy-Unblocker](https://github.com/Titanium-Network/Holy-Unblocker) - About Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based. (⭐️6)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️226407)
+  - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. \[*MIT License*\] (⭐️37866)
 
 ## Vue
 
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️8184)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️8267)
 
