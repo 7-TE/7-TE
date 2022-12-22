@@ -314,7 +314,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🕵️‍♂️ Among Us                       🕘 60 hrs 46 mins
+🕵️‍♂️ Among Us                       🕘 65 hrs 27 mins
 🎮 POSTAL 2                         🕘 26 hrs 13 mins
 🎮 Portal 2                         🕘 8 hrs 55 mins
 λ² Half-Life 2                      🕘 5 hrs 38 mins
