@@ -4,6 +4,7 @@
 [![Subscribe via RSS](https://img.shields.io/badge/RSS-Subscribe-%23FFA500?logo=rss&style=flat-square)](https://notes.aliciasykes.com/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Amazing Collections for Self-Taught Developers 🎓](https://notes.aliciasykes.com/42310/20-amazing-collections-for-self-taught-developers)
 - [CLI tools you can&#39;t live without 🔧](https://notes.aliciasykes.com/41983/cli-tools-you-can-t-live-without)
 - [20 Git Commands you &lpar;probably&rpar; didn&#39;t know 🧙‍♂️](https://notes.aliciasykes.com/41171/20-git-commands-you-probably-didn-t-know)
 - [Super Useful CSS Resources 🌈](https://notes.aliciasykes.com/40638/super-useful-css-resources)
